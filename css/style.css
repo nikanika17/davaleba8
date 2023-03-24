@@ -1,0 +1,146 @@
+.logo {
+  width: 200px;
+  height: 38px;
+  margin-top: 50px;
+  margin-left: 192px;
+}
+ul {
+  display: flex;
+  gap: 40px;
+  width: 825px;
+  height: 65px;
+  margin-left: 600px;
+  margin-top: -29px;
+}
+.get {
+  display: flex;
+  padding: 21px 35px 22px;
+  width: 184px;
+  margin-left: 1160px;
+  margin-top: -88px;
+  background: #6b77e5;
+}
+.get h5 {
+  width: 114px;
+  height: 22px;
+  color: #ffffff;
+}
+h3 {
+  font-size: 18px;
+  margin-top: 150px;
+  padding-left: 700px;
+}
+
+h4 {
+  font-size: 40px;
+  margin-top: 20px;
+  margin-left: 650px;
+  color: #37393f;
+}
+.flexbox1 {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  height: 383px;
+}
+.flex {
+  width: 386px;
+  height: 383px;
+  background: #f4f4f4;
+  margin-top: 100px;
+}
+.flex h1 {
+  text-align: center;
+  font-size: 25px;
+  margin-top: 60px;
+}
+.flex p {
+  font-size: 18px;
+  text-align: center;
+  margin: 20px 42px;
+  color: #7d7d7d;
+}
+.flex h6 {
+  font-size: 18px;
+  text-align: center;
+  margin: 20px 42px;
+  color: #7d7d7d;
+  margin-top: 50px;
+}
+
+.flex img {
+  margin: 0px 160px;
+}
+
+.play {
+  margin-top: 150px;
+}
+
+.play h6 {
+  font-size: 18px;
+  margin: -350px 600px;
+  text-align: center;
+  font-size: 18px;
+}
+.play h4 {
+  margin: 350px 620px;
+  font-size: 40px;
+}
+.play p {
+  width: 511px;
+  height: 52px;
+  margin: -340px 500px;
+  font-size: 18ppx;
+  text-align: center;
+  color: #37393f;
+}
+.play1 {
+  margin-top: 380px;
+  padding-left: 720px;
+}
+.play h1 {
+  margin-top: 190px;
+  padding-left: 700px;
+  font-size: 18px;
+}
+
+.play h3 {
+  margin-top: -0px;
+  margin-left: -110px;
+  font-size: 40px;
+  line-height: 48px;
+}
+.flexbox2 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;
+  height: 383px;
+  margin-top: 50px;
+}
+.flexbox3 {
+  display: flex;
+  justify-content: center;
+  gap: 55px;
+}
+.text {
+  width: 341px;
+  height: 114px;
+
+  background: #ffffff;
+}
+.text h1 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 25px;
+}
+.text h2 {
+  text-align: center;
+  font-size: 18px;
+  padding-top: 10px;
+  color: #7d7d7d;
+}
+.end {
+  width: 100px;
+  height: 100px;
+}
